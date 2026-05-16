@@ -1,7 +1,7 @@
 # CodeBlocks — AI Multi-View Canvas
 
 An infinite canvas application where you describe UI blocks in natural language and an LLM (Ollama) generates them as draggable, resizable blocks with multiple synchronized views.
-
+![CodeBlocks Demo](./assets/demo.png)
 > **Phase:** AI-generated blocks becoming reusable, inspectable, exportable application primitives.
 > See [`plan.md`](./plan.md) for the full development roadmap.
 
